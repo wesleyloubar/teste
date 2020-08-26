@@ -7,3 +7,4 @@
 The goal of teste is to ...
 
 #### Esse read me foi criado dentro do RStudio
+Versao 2
